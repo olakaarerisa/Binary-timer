@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\ola0206\git\Binary-timer\Binary Timer\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="3" lineNum="14" pc="268436081" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="3" lineNum="15" pc="268436085" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="4" lineNum="20" pc="268436104" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="4" lineNum="21" pc="268436108" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="4" lineNum="22" pc="268436144" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="4" lineNum="23" pc="268436156" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerStorageChangedAlertView.mc" id="4" lineNum="11" pc="268438403" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="6" lineNum="20" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="6" lineNum="21" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="27" pc="268435479" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="30" pc="268435483" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="31" pc="268435500" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="33" pc="268435560" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="37" pc="268435581" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="38" pc="268435598" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="41" pc="268435627" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerBackground.mc" id="7" lineNum="17" pc="268436033" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="9" lineNum="7" pc="268436245" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="9" lineNum="8" pc="268436249" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="11" pc="268436268" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="12" pc="268436272" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="13" pc="268436283" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="14" pc="268436307" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="15" pc="268436318" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerMenuDelegate.mc" id="10" lineNum="5" pc="268438509" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="12" lineNum="21" pc="268435646" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="12" lineNum="22" pc="268435650" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="13" lineNum="27" pc="268435669" symbol="onStart"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="14" lineNum="32" pc="268435674" symbol="onStop"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="14" lineNum="33" pc="268435678" symbol="onStop"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="14" lineNum="34" pc="268435688" symbol="onStop"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="14" lineNum="35" pc="268435695" symbol="onStop"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="14" lineNum="36" pc="268435707" symbol="onStop"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="15" lineNum="42" pc="268435723" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="15" lineNum="43" pc="268435727" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="15" lineNum="44" pc="268435737" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="15" lineNum="45" pc="268435744" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="15" lineNum="47" pc="268435759" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="53" pc="268435770" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="54" pc="268435774" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="55" pc="268435816" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="56" pc="268435826" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="57" pc="268435833" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="58" pc="268435845" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="16" lineNum="60" pc="268435901" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="17" lineNum="65" pc="268435904" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="17" lineNum="66" pc="268435908" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="18" lineNum="70" pc="268435950" symbol="onStorageChanged"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="18" lineNum="71" pc="268435954" symbol="onStorageChanged"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="18" lineNum="72" pc="268435967" symbol="onStorageChanged"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="18" lineNum="16" pc="268436014" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="19" lineNum="78" pc="268436343" symbol="handleStorageUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerApp.mc" id="19" lineNum="79" pc="268436355" symbol="handleStorageUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="21" lineNum="17" pc="268436411" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="21" lineNum="18" pc="268436415" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="21" lineNum="19" pc="268436433" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="22" lineNum="25" pc="268436444" symbol="onSelect"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="22" lineNum="26" pc="268436448" symbol="onSelect"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="22" lineNum="27" pc="268436466" symbol="onSelect"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="23" lineNum="33" pc="268436470" symbol="onBack"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="23" lineNum="34" pc="268436474" symbol="onBack"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerDelegate.mc" id="23" lineNum="12" pc="268438490" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="36" pc="268436493" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="37" pc="268436497" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="40" pc="268436515" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="41" pc="268436522" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="42" pc="268436547" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="43" pc="268436561" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="45" pc="268436574" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="47" pc="268436590" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="48" pc="268436621" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="52" pc="268436655" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="53" pc="268436671" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="54" pc="268436680" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="58" pc="268436689" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="61" pc="268436723" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="25" lineNum="63" pc="268436752" symbol="initialize"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="69" pc="268436797" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="70" pc="268436801" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="72" pc="268436815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="73" pc="268436822" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="74" pc="268436832" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="75" pc="268436839" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="76" pc="268436849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="78" pc="268436856" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="79" pc="268436870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="81" pc="268436880" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="84" pc="268436909" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="85" pc="268436923" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="87" pc="268436933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="88" pc="268436947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="89" pc="268436979" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="93" pc="268437003" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="95" pc="268437016" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="96" pc="268437026" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="98" pc="268437036" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="100" pc="268437063" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="101" pc="268437089" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="26" lineNum="102" pc="268437101" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="112" pc="268437187" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="113" pc="268437191" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="115" pc="268437217" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="116" pc="268437227" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="117" pc="268437234" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="118" pc="268437244" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="120" pc="268437288" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="121" pc="268437298" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="122" pc="268437305" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="123" pc="268437315" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="124" pc="268437333" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="126" pc="268437352" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="127" pc="268437369" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="128" pc="268437385" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="27" lineNum="129" pc="268437394" symbol="startStopTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="137" pc="268437439" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="138" pc="268437443" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="139" pc="268437456" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="140" pc="268437465" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="141" pc="268437474" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="142" pc="268437490" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="28" lineNum="144" pc="268437496" symbol="resetTimer"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="29" lineNum="149" pc="268437500" symbol="saveProperties"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="29" lineNum="150" pc="268437504" symbol="saveProperties"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="29" lineNum="151" pc="268437536" symbol="saveProperties"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="29" lineNum="152" pc="268437568" symbol="saveProperties"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="158" pc="268437601" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="159" pc="268437605" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="160" pc="268437615" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="161" pc="268437638" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="162" pc="268437668" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="163" pc="268437715" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="164" pc="268437715" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="30" lineNum="165" pc="268437752" symbol="setBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="31" lineNum="178" pc="268437814" symbol="deleteBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="31" lineNum="179" pc="268437818" symbol="deleteBackgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="32" lineNum="184" pc="268437835" symbol="backgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="32" lineNum="185" pc="268437839" symbol="backgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="32" lineNum="186" pc="268437855" symbol="backgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="32" lineNum="187" pc="268437864" symbol="backgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="32" lineNum="188" pc="268437873" symbol="backgroundEvent"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="33" lineNum="194" pc="268437890" symbol="requestUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="33" lineNum="195" pc="268437894" symbol="requestUpdate"/>
+        <entry filename="C:\\Users\\ola0206\\git\\Binary-timer\\Binary Timer\\source\\BinaryTimerView.mc" id="33" lineNum="19" pc="268438471" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="1" pc="268435988" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="42" lineNum="9" pc="268436052" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="48" lineNum="40" pc="268437911" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="42" pc="268437923" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="44" pc="268437936" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="45" pc="268438091" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="46" pc="268438203" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="48" pc="268438240" symbol="MainLayout"/>
+        <entry filename="Rez" id="51" lineNum="62" pc="268438268" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="63" pc="268438272" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="64" pc="268438290" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="65" pc="268438346" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="60" pc="268438448" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="52" lineNum="23" pc="268438422" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="43" symbol="&lt;globals/BinaryTimerView/&lt;&gt;_timerStartTime&gt;"/>
+        <entry id="46" method="true" symbol="startStopTimer"/>
+        <entry id="8" module="true" symbol="globals/GlanceRez/Layouts"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="6" module="true" symbol="globals/GlanceRez/Drawables"/>
+        <entry id="13" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="33" method="true" symbol="MainLayout"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry id="4" module="true" symbol="globals/BackgroundRez/Strings"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389287" method="true" symbol="saveProperties"/>
+        <entry field="true" id="40" symbol="&lt;globals/BinaryTimerView/&lt;&gt;TIMER_KEY_PAUSE_TIME&gt;"/>
+        <entry id="9" module="true" symbol="globals/GlanceRez/JsonData"/>
+        <entry field="true" id="38" symbol="&lt;globals/BinaryTimerView/&lt;&gt;TIMER_KEY_DURATION&gt;"/>
+        <entry id="8391451" module="true" object="true" symbol="BackgroundRez"/>
+        <entry field="true" id="37" symbol="AppName"/>
+        <entry id="17" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="11" module="true" symbol="globals/Rez"/>
+        <entry id="8390148" method="true" symbol="onTemporalEvent"/>
+        <entry field="true" id="36" symbol="prompt"/>
+        <entry field="true" id="30" symbol="id_monkey"/>
+        <entry field="true" id="27" symbol="&lt;globals/BinaryTimerApp/&lt;&gt;_backgroundData&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="3" module="true" symbol="globals/BackgroundRez/JsonData"/>
+        <entry id="8389026" method="true" symbol="requestUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="53" symbol="item_2"/>
+        <entry id="52" symbol="item_1"/>
+        <entry id="8390169" method="true" symbol="getServiceDelegate"/>
+        <entry id="29" module="true" symbol="Menus"/>
+        <entry id="15" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="50" method="true" symbol="backgroundEvent"/>
+        <entry id="2" module="true" symbol="globals/BackgroundRez"/>
+        <entry id="5" module="true" symbol="globals/GlanceRez"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="21" object="true" symbol="BinaryTimerApp"/>
+        <entry id="18" object="true" symbol="BinaryTimerStorageChangedAlertView"/>
+        <entry field="true" id="41" symbol="&lt;globals/BinaryTimerView/&lt;&gt;TIMER_DURATION_DEFAULT&gt;"/>
+        <entry id="16" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8391459" module="true" object="true" symbol="GlanceRez"/>
+        <entry id="48" method="true" symbol="setBackgroundEvent"/>
+        <entry id="49" method="true" symbol="deleteBackgroundEvent"/>
+        <entry id="12" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8390170" method="true" symbol="onBackgroundData"/>
+        <entry field="true" id="25" symbol="TimerExpired"/>
+        <entry id="32" object="true" symbol="MainMenu"/>
+        <entry id="20" object="true" symbol="BinaryTimerMenuDelegate"/>
+        <entry id="24" object="true" symbol="BinaryTimerView"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="42" symbol="&lt;globals/BinaryTimerView/&lt;&gt;_timerDuration&gt;"/>
+        <entry id="7" module="true" symbol="globals/GlanceRez/Fonts"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389021" method="true" symbol="loadResource"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="44" symbol="&lt;globals/BinaryTimerView/&lt;&gt;_timerPauseTime&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8391704" method="true" symbol="onStorageChanged"/>
+        <entry id="22" method="true" symbol="handleStorageUpdate"/>
+        <entry id="23" object="true" symbol="BinaryTimerDelegate"/>
+        <entry id="19" object="true" symbol="BinaryTimerServiceDelegate"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="28" module="true" symbol="Layouts"/>
+        <entry id="10" module="true" symbol="globals/GlanceRez/Strings"/>
+        <entry field="true" id="39" symbol="&lt;globals/BinaryTimerView/&lt;&gt;TIMER_KEY_START_TIME&gt;"/>
+        <entry id="14" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="45" symbol="&lt;globals/BinaryTimerView/&lt;&gt;_updateTimer&gt;"/>
+        <entry field="true" id="51" symbol="&lt;globals/BinaryTimerDelegate/&lt;&gt;_parentView&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="26" symbol="&lt;globals/BinaryTimerApp/&lt;&gt;_timerView&gt;"/>
+        <entry field="true" id="35" symbol="menu_label_2"/>
+        <entry field="true" id="34" symbol="menu_label_1"/>
+        <entry id="47" method="true" symbol="resetTimer"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268436244" name="dc" stackId="1" startPc="268436104"/>
+        <entry arg="true" endPc="268436342" name="item" stackId="1" startPc="268436268"/>
+        <entry arg="true" endPc="268435673" name="state" stackId="1" startPc="268435669"/>
+        <entry endPc="268435721" name="timerView" stackId="2" startPc="268435678"/>
+        <entry arg="true" endPc="268435722" name="state" stackId="1" startPc="268435674"/>
+        <entry endPc="268435768" name="timerView" stackId="2" startPc="268435727"/>
+        <entry arg="true" endPc="268435769" name="data" stackId="1" startPc="268435723"/>
+        <entry endPc="268435902" name="timerView" stackId="1" startPc="268435774"/>
+        <entry arg="true" endPc="268436443" name="view" stackId="1" startPc="268436411"/>
+        <entry endPc="268436651" name="timerDuration" stackId="2" startPc="268436522"/>
+        <entry arg="true" endPc="268436796" name="backgroundRan" stackId="1" startPc="268436493"/>
+        <entry endPc="268436999" name="timerPauseTime" stackId="5" startPc="268436839"/>
+        <entry endPc="268437185" name="timerString" stackId="9" startPc="268436801"/>
+        <entry endPc="268437185" name="elapsed" stackId="3" startPc="268436801"/>
+        <entry endPc="268437185" name="timerValue" stackId="6" startPc="268436801"/>
+        <entry endPc="268437185" name="minutes" stackId="8" startPc="268436801"/>
+        <entry endPc="268437185" name="timerStartTime" stackId="4" startPc="268436801"/>
+        <entry endPc="268437185" name="textColor" stackId="2" startPc="268436801"/>
+        <entry endPc="268437185" name="seconds" stackId="7" startPc="268436801"/>
+        <entry arg="true" endPc="268437186" name="dc" stackId="1" startPc="268436797"/>
+        <entry endPc="268437437" name="timerPauseTime" stackId="3" startPc="268437288"/>
+        <entry endPc="268437437" name="now" stackId="1" startPc="268437191"/>
+        <entry endPc="268437437" name="timerStartTime" stackId="2" startPc="268437191"/>
+        <entry endPc="268437769" name="info" stackId="3" startPc="268437715"/>
+        <entry endPc="268437809" name="time" stackId="2" startPc="268437638"/>
+        <entry endPc="268437812" name="timerStartTime" stackId="1" startPc="268437605"/>
+        <entry endPc="268438266" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437923"/>
+        <entry endPc="268438266" name="rez_cmp_local_text_9929564201" stackId="3" startPc="268437923"/>
+        <entry endPc="268438266" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437923"/>
+        <entry arg="true" endPc="268438267" name="dc" stackId="1" startPc="268437911"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="typecheck(disableBackgroundCheck)" class="globals" module="" symbol="handleStorageUpdate"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/BackgroundRez" symbol="TimerExpired"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/GlanceRez" symbol="TimerExpired"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimerExpired"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="159" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/BackgroundRez" offset="278" parentId="globals" symbolId="BackgroundRez" type="module"/>
+        <dataEntry label="globals/BackgroundRez/JsonData" offset="325" parentId="BackgroundRez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/BackgroundRez/Strings" offset="356" parentId="BackgroundRez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BinaryTimerApp" offset="395" parentId="globals" symbolId="BinaryTimerApp" type="class"/>
+        <dataEntry label="globals/BinaryTimerServiceDelegate" offset="506" parentId="globals" symbolId="BinaryTimerServiceDelegate" type="class"/>
+        <dataEntry label="globals/GlanceRez" offset="901" parentId="globals" symbolId="GlanceRez" type="module"/>
+        <dataEntry label="globals/GlanceRez/Drawables" offset="972" parentId="GlanceRez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/GlanceRez/Fonts" offset="1003" parentId="GlanceRez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/GlanceRez/Layouts" offset="1034" parentId="GlanceRez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/GlanceRez/JsonData" offset="1065" parentId="GlanceRez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/GlanceRez/Strings" offset="1096" parentId="GlanceRez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BinaryTimerStorageChangedAlertView" offset="1135" parentId="globals" symbolId="BinaryTimerStorageChangedAlertView" type="class"/>
+        <dataEntry label="globals/Rez" offset="1190" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1269" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1316" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="1355" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1433" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1472" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1503" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BinaryTimerView" offset="1574" parentId="globals" symbolId="BinaryTimerView" type="class"/>
+        <dataEntry label="globals/BinaryTimerDelegate" offset="1749" parentId="globals" symbolId="BinaryTimerDelegate" type="class"/>
+        <dataEntry label="globals/BinaryTimerMenuDelegate" offset="1820" parentId="globals" symbolId="BinaryTimerMenuDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerStorageChangedAlertView">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BinaryTimerStorageChangedAlertView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerServiceDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTemporalEvent" parent="BinaryTimerServiceDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> If our timer expires, it means the application timer ran out,<br/> and the main application is not open. Prompt the user to let them<br/> know the timer expired.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="BinaryTimerMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerApp">
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="BinaryTimerApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="BinaryTimerApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBackgroundData" parent="BinaryTimerApp">
+            <param id="data"/>
+            <documentation>
+                <![CDATA[<div class="description"> Handle data passed from a background service delegate to the app<br/> <div class="param"> data The data passed from the background process</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="BinaryTimerApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array Pair [View, Delegate]</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getServiceDelegate" parent="BinaryTimerApp">
+            <documentation>
+                <![CDATA[<div class="description"> Get service delegates to run background tasks for the app<br/> <div class="returns">Returns  An array of service delegates to run background tasks</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStorageChanged" parent="BinaryTimerApp">
+            <documentation>
+                <![CDATA[<div class="description"> Handle a storage update<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="handleStorageUpdate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerDelegate">
+            <param id="view"/>
+            <documentation>
+                <![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The app view</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="BinaryTimerDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Call the start stop timer method on the parent view<br/> when the select action occurs (start/stop button on most products)<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="BinaryTimerDelegate">
+            <documentation>
+                <![CDATA[<div class="description"> Call the reset method on the parent view when the<br/> back action occurs.<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BinaryTimerView">
+            <param id="backgroundRan"/>
+            <documentation>
+                <![CDATA[<div class="description"> Initialize variables for this view<br/> <div class="param"> backgroundRan Contains background data if background ran</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BinaryTimerView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the time remaining on the timer to the display<br/> <div class="param"> dc Device Context</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startStopTimer" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> If the timer is running, pause it. Otherwise, start it up.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resetTimer" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> If the timer is paused, then go ahead and reset it back to the default time.<br/> <div class="returns">Returns  true if timer is reset, false otherwise</div><br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="saveProperties" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> Save all the persisted values into the object store. This gets<br/> called by the Application base before the application shuts down.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setBackgroundEvent" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> Set up a background event to occur when the timer expires. This<br/> will alert the user that the timer has expired even if the<br/> application does not remain open.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="deleteBackgroundEvent" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> Delete the background event. We can get rid of this event when the<br/> application opens because now we can see exactly when the timer<br/> is going to expire. We will set it again when the application closes.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="backgroundEvent" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> If we do receive a background event while the application is open,<br/> go ahead and reset to the default timer.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="requestUpdate" parent="BinaryTimerView">
+            <documentation>
+                <![CDATA[<div class="description"> This is the callback method we use for our timer. It is<br/> only needed to request display updates as the timer counts<br/> down so we see the updated time on the display.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
