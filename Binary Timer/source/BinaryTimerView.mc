@@ -24,7 +24,7 @@ class BinaryTimerView extends WatchUi.View {
         TIMER_KEY_PAUSE_TIME
     }
 
-    private const TIMER_DURATION_DEFAULT = (5 * 60);    // 5 minutes
+    private const TIMER_DURATION_DEFAULT = (7 * 60);    // 5 minutes
 
     private var _timerDuration as Number;
     private var _timerStartTime as Number?;
@@ -34,15 +34,19 @@ class BinaryTimerView extends WatchUi.View {
     //! Initialize variables for this view
     //! @param backgroundRan Contains background data if background ran
     public function initialize(backgroundRan as PersistableType?) {
+    	System.println("initialize2");
         View.initialize();
 
         // Fetch the persisted values from storage
         if (backgroundRan == null) {
+        	System.println("backgrounRan == null");
             var timerDuration = Storage.getValue(TIMER_KEY_DURATION);
             if (timerDuration instanceof Number) {
                 _timerDuration = timerDuration;
+                System.println("timerDuratin instanceofNumber");
             } else {
                 _timerDuration = TIMER_DURATION_DEFAULT;
+                System.println("timerDuration not instance of number");
             }
             _timerStartTime = Storage.getValue(TIMER_KEY_START_TIME);
             _timerPauseTime = Storage.getValue(TIMER_KEY_PAUSE_TIME);
