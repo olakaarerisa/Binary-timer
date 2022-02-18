@@ -18,6 +18,13 @@ class BinaryTimerDelegate extends WatchUi.BehaviorDelegate {
         BehaviorDelegate.initialize();
         _parentView = view;
     }
+    
+    /*
+    public function onPreviousPage() as Boolean {
+         _parentView.rectangleMode = _parentView.changeRectangleMode(_parentView.rectangleMode);
+        return true;
+    }
+    */
 
     //! Call the start stop timer method on the parent view
     //! when the select action occurs (start/stop button on most products)
@@ -26,11 +33,25 @@ class BinaryTimerDelegate extends WatchUi.BehaviorDelegate {
         _parentView.startStopTimer();
         return true;
     }
-
-    //! Call the reset method on the parent view when the
+     //! Call the reset method on the parent view when the
     //! back action occurs.
     //! @return true if handled, false otherwise
-    public function onBack() as Boolean {
+    public function onNextPage() as Boolean {
         return _parentView.resetTimer();
+    }
+
+   	public function onMenu() as Boolean {
+      
+        return pushPicker();
+    }
+   	
+   	
+    public function onBack() as Boolean {
+        
+    }
+    
+    public function pushPicker() as Boolean {
+        WatchUi.pushView(new $.TimePicker(), new $.TimePickerDelegate(), WatchUi.SLIDE_IMMEDIATE);
+        return true;
     }
 }
